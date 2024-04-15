@@ -15,8 +15,8 @@ os.environ['HTTPS_PROXY'] = proxy
 
 # 將系統輸出語系編碼設為 utf8
 sys.stdout = codecs.getwriter("utf8")(sys.stdout.detach())
-# 表示要讀入的文章檔名為 wed.txt
-filename = "wed"
+# 表示要讀入的文章檔名為 progit.txt
+filename = "progit"
  
 """
  Project: Concordancer Jr.
