@@ -1,8 +1,12 @@
-import fitz # install using: pip install PyMuPDF
- 
-with fitz.open("IntroducingJavaScriptGameDevel.pdf") as doc:
+import fitz  # install using: pip install PyMuPDF
+
+with fitz.open("2023_Programming for Absolute Beginners.pdf") as doc:
     text = ""
     for page in doc:
         text += page.get_text()
- 
-print(text)
+
+# 將text存為檔案
+with open("2023_Programming for Absolute Beginners.txt", "w", encoding="utf-8") as file:
+    file.write(text)
+
+print("Text saved to progit.txt")
