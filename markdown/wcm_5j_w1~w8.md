@@ -1,5 +1,5 @@
 ---
-Title: WCM 五專第一~八週課程內容
+Title: WCM 五專第一~十二週課程內容
 Date: 2024-04-13 09:24
 Category: 五專
 Tags: 五專
@@ -98,3 +98,5 @@ Author: 51233114
 
 第十二週 Angry Bird 專案影片
 <iframe width="653" height="351" src="https://www.youtube.com/embed/GH-iUJoklaQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+從 Python 3.7.1 加入可攜的 Python 3.12.3 版影片
+<iframe width="1280" height="688" src="https://www.youtube.com/embed/YquWFX3tICw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-06T08:02:18+08:00</updated><entry><title>WCM 五專第一~八週課程內容</title><link href="./wcm-5j-w1~w8.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-06T08:02:18+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w1~w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-12T12:49:55+08:00</updated><entry><title>WCM 五專第一~十二週課程內容</title><link href="./wcm-5j-w1~w8.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-12T12:49:55+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w1~w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;五專第一與第二週課程內容&lt;/h1&gt;
 &lt;p&gt;我們第一週申請了Github和Replit帳號，並建立了個人的課程倉儲，建立名稱為wcm2024，全部使用英文小寫字母的公開倉儲，建立了wcm2024倉儲後,我們就進入倉儲Settings中的Pages,將Branch分支的main分支設為網頁的root,就可以將wcm2024轉為該倉儲的網站。第二週則學到了如何使用ChatGPT來進行提問。&lt;/p&gt;
@@ -72,4 +72,6 @@
 51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;五專第十二週課程內容&lt;/h1&gt;
 &lt;p&gt;第十二週 Angry Bird 專案影片&lt;/p&gt;
-&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/GH-iUJoklaQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry></feed>
+&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/GH-iUJoklaQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;從 Python 3.7.1 加入可攜的 Python 3.12.3 版影片&lt;/p&gt;
+&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/YquWFX3tICw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry></feed>
