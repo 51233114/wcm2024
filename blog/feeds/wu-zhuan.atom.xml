@@ -1,80 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:17:20+08:00</updated><entry><title>WCM 五專第一~二週課程內容</title><link href="./wcm-5j-w1~w2.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:17:20+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w1~w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:53:22+08:00</updated><entry><title>WCM 五專第十週課程內容</title><link href="./wcm-5j-w10.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:40:05+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專第十周課程內容&lt;/h1&gt;
+&lt;p&gt;我們第十周使用了5j_wcm2024_midterm資料與1a_wcm2024_midterm資料檔案，包含學號、Github帳號與組別，建立能連結到各分組組員的課程倉儲與網站連結頁面。&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第十二週課程內容</title><link href="./wcm-5j-w12.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:42:33+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w12.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專第十二周課程內容&lt;/h1&gt;
+&lt;p&gt;我們第十二周將Python3123放入先前舊版的可攜Python371data目錄中，且配合建立start_ipv6_py3123.bat，將Python3.7.1版的可攜Python升級為Python3.12.3版，並做了Angry Bird專案。&lt;/p&gt;
+&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/YquWFX3tICw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/GH-iUJoklaQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第十三~十四週課程內容</title><link href="./wcm-5j-w13~14.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:53:22+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w13~14.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專第十三~十四周課程內容&lt;/h1&gt;
+&lt;p&gt;我們第十三周測試了老師創的猜數字遊戲，並思考是否有可以更改的地方，第十四周我們試著自己創造猜數字遊戲，並讓組員試著加入並測試。&lt;/p&gt;
+&lt;iframe width="779" height="435" src="https://www.youtube.com/embed/skS2-fppYQ8" title="猜數字遊戲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第一~二週課程內容</title><link href="./wcm-5j-w1~w2.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:17:20+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w1~w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;五專第一與第二週課程內容&lt;/h1&gt;
-&lt;p&gt;我們第一週申請了Github和Replit帳號，並建立了個人的課程倉儲，建立名稱為wcm2024，全部使用英文小寫字母的公開倉儲，建立了wcm2024倉儲後,我們就進入倉儲Settings中的Pages,將Branch分支的main分支設為網頁的root,就可以將wcm2024轉為該倉儲的網站。第二週則學到了如何使用ChatGPT來進行提問。&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第一~十二週課程內容</title><link href="./wcm-5j-w1~w8.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:16:04+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w1~w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;我們第一週申請了Github和Replit帳號，並建立了個人的課程倉儲，建立名稱為wcm2024，全部使用英文小寫字母的公開倉儲，建立了wcm2024倉儲後,我們就進入倉儲Settings中的Pages,將Branch分支的main分支設為網頁的root,就可以將wcm2024轉為該倉儲的網站。第二週則學到了如何使用ChatGPT來進行提問。&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第三週課程內容</title><link href="./wcm-5j-w3.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:22:37+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h1&gt;五專第一與第二週課程內容&lt;/h1&gt;
-&lt;p&gt;我們第一週申請了Github和Replit帳號，並建立了個人的課程倉儲，建立名稱為wcm2024，全部使用英文小寫字母的公開倉儲，建立了wcm2024倉儲後,我們就進入倉儲Settings中的Pages,將Branch分支的main分支設為網頁的root,就可以將wcm2024轉為該倉儲的網站。第二週則學到了如何使用ChatGPT來進行提問。&lt;/p&gt;
 &lt;h1&gt;五專第三週課程內容&lt;/h1&gt;
-&lt;p&gt;我們第三週利用我們準備的隨身碟下載了可攜程式系統portable_2024.7z並解壓縮，接著下載ShareX並學會如何錄影以及截圖。&lt;/p&gt;
+&lt;p&gt;我們第三週利用我們準備的隨身碟下載了可攜程式系統portable_2024.7z並解壓縮，接著下載ShareX並學會如何錄影以及截圖。&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第四週課程內容</title><link href="./wcm-5j-w4.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:23:56+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;h1&gt;五專第四週課程內容&lt;/h1&gt;
 &lt;p&gt;我們第四週利用了Github和Replit建立了最短網址，我們使用"帳號.github.io"作為倉儲名稱並建立網址，網址是https://帳號.github.io，下載了main2.txt與static.txt，幫助我們執行倉儲內的靜態網站檢視，我們也利用了Replit裡面的Markdown建立網誌內容，最後還學會了OBS這個程式。
-&lt;a href="https://51233114.github.io/wcm2024/blog/wcm-5j-w5.html"&gt;最短網址網站&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://51233114.github.io/wcm2024/blog/wcm-5j-w5.html"&gt;最短網址網站&lt;/a&gt;&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第五週課程內容</title><link href="./wcm-5j-w5.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:27:14+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;h1&gt;五專第五週課程內容&lt;/h1&gt;
 &lt;p&gt;我們第五週利用了ChatGPT的對話,整理與精密機械科有關的問題詢答紀錄，並把內容寫在個人的課程網站中，把結果回報到課程倉儲的討論區。
-&lt;a href="https://43d02b10-49d5-427c-9e37-509b344eee63-00-df3tk47nahmm.pike.replit.dev/blog/wcm-5j-w5.html"&gt;ChatGPT對話整理&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://43d02b10-49d5-427c-9e37-509b344eee63-00-df3tk47nahmm.pike.replit.dev/blog/wcm-5j-w5.html"&gt;ChatGPT對話整理&lt;/a&gt;&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第六週課程內容</title><link href="./wcm-5j-w6.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:28:41+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
 &lt;h1&gt;五專第六週課程內容&lt;/h1&gt;
 &lt;p&gt;因為我們的單字量還很少，所以我們第六週使用Replit以html格式整理出progit這本電子書的英文單字查詢涵義與應用資料。&lt;/p&gt;
-&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/FrbVY2iqnOM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/FrbVY2iqnOM" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第七週課程內容</title><link href="./wcm-5j-w7.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:30:55+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w7.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;h1&gt;五專第七週課程內容&lt;/h1&gt;
 &lt;p&gt;我們第七週一樣使用Replit以html格式整理出建立Javascript電子書的單字查詢超文件。&lt;/p&gt;
 &lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/FxLkk31-8Xw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;再來我們認識了Brython程式，再由Brython寫出由電腦執行猜數字遊戲。&lt;/p&gt;
-&lt;h1&gt;五專第八週課程內容&lt;/h1&gt;
-&lt;p&gt;我們第八週認識了領英，並註冊領英帳號&lt;/p&gt;
-&lt;h1&gt;期中報告影片&lt;/h1&gt;
-&lt;p&gt;以下是期中報告影片&lt;/p&gt;
-&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/nRgOuU0Kptk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;再來我們認識了Brython程式，再由Brython寫出由電腦執行猜數字遊戲。&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第八週課程內容</title><link href="./wcm-5j-w8.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:32:17+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w8.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;h1&gt;五專第十週課程內容&lt;/h1&gt;
-&lt;p&gt;51233101: &lt;a href="https://github.com/Chen-Yi-jing/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://Chen-Yi-jing.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233102: &lt;a href="https://github.com/51233102/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233102.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233103: &lt;a href="https://github.com/Lin-Si-yu/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://Lin-Si-yu.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233104: &lt;a href="https://github.com/kylechan092804/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://kylechan092804.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233105: &lt;a href="https://github.com/51233105/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233105.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233106: &lt;a href="https://github.com/51233106/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233106.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233107: &lt;a href="https://github.com/51233107/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233107.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233108: &lt;a href="https://github.com/51233108/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233108.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233109: &lt;a href="https://github.com/51233109/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233109.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233110: &lt;a href="https://github.com/ssssuuuuyyyyy/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://ssssuuuuyyyyy.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233111: &lt;a href="https://github.com/51233111/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233111.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233112: &lt;a href="https://github.com/51233112/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233112.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233113: &lt;a href="https://github.com/51233113/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233113.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233114: &lt;a href="https://github.com/51233114/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233114.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233115: &lt;a href="https://github.com/51233115/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233115.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233116: &lt;a href="https://github.com/51233116/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233116.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233117: &lt;a href="https://github.com/51233117/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233117.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233118: &lt;a href="https://github.com/51233118/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233118.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233119: &lt;a href="https://github.com/boyi1217/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://boyi1217.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233120: &lt;a href="https://github.com/Yaosunset/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://Yaosunset.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233121: &lt;a href="https://github.com/51233121/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233121.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233122: &lt;a href="https://github.com/zsw08/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://zsw08.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233123: &lt;a href="https://github.com/51233123/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233123.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233124: &lt;a href="https://github.com/51233124/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233124.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233125: &lt;a href="https://github.com/gyjbujy/51233125/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://gyjbujy/51233125.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233126: &lt;a href="https://github.com/51233126/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233126.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233127: &lt;a href="https://github.com/kaixiang1220/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://kaixiang1220.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233128: &lt;a href="https://github.com/51233128/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233128.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233129: &lt;a href="https://github.com/51233129/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233129.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233130: &lt;a href="https://github.com/51233130/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233130.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233131: &lt;a href="https://github.com/51233131/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233131.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233132: &lt;a href="https://github.com/51233132/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233132.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233133: &lt;a href="https://github.com/51233133/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233133.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233134: &lt;a href="https://github.com/51233134/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233134.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233135: &lt;a href="https://github.com/51233135/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233135.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233136: &lt;a href="https://github.com/51233136/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233136.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233137: &lt;a href="https://github.com/51233137/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233137.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233138: &lt;a href="https://github.com/51233138/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233138.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233139: &lt;a href="https://github.com/51233139/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233139.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233140: &lt;a href="https://github.com/51233140/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233140.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233141: &lt;a href="https://github.com/51233141/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233141.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233142: &lt;a href="https://github.com/51233142/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233142.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233143: &lt;a href="https://github.com/51233143/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233143.github.io/wcm2024"&gt;網站&lt;/a&gt;
-51233144: &lt;a href="https://github.com/51233144/wcm2024"&gt;倉儲&lt;/a&gt; | &lt;a href="https://51233144.github.io/wcm2024"&gt;網站&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;五專第十二週課程內容&lt;/h1&gt;
-&lt;p&gt;第十二週 Angry Bird 專案影片&lt;/p&gt;
-&lt;iframe width="653" height="351" src="https://www.youtube.com/embed/GH-iUJoklaQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;從 Python 3.7.1 加入可攜的 Python 3.12.3 版影片&lt;/p&gt;
-&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/YquWFX3tICw" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry></feed>
+&lt;h1&gt;五專第八週課程內容&lt;/h1&gt;
+&lt;p&gt;我們第八週認識了領英，並註冊領英帳號&lt;/p&gt;</content><category term="五專"></category><category term="五專"></category></entry><entry><title>WCM 五專第九週課程內容</title><link href="./wcm-5j-w9.html" rel="alternate"></link><published>2024-04-13T09:24:00+08:00</published><updated>2024-05-27T08:34:02+08:00</updated><author><name>51233114</name></author><id>tag:None,2024-04-13:./wcm-5j-w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h1&gt;五專第九周課程內容&lt;/h1&gt;
+&lt;p&gt;以下是期中報告影片&lt;/p&gt;
+&lt;iframe width="1280" height="688" src="https://www.youtube.com/embed/nRgOuU0Kptk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="五專"></category></entry></feed>
